@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
-        default: ""
+        default: "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EYd0ub0iOx9Ehrr2QBrT2BwByT0Co2rFc1jCVRgbLodwkA"
         required: true
         type: string
       bundle_id:
